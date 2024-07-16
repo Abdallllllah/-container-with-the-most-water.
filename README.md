@@ -10,7 +10,7 @@ To run this script, ensure you have Python installed on your system.
 python p.py
 ```
 
-Problem Statement
+Problem Statement:
 Given a list of integers representing the height of bars, the script calculates the maximum amount of water that can be stored between two bars.
 
 Example
